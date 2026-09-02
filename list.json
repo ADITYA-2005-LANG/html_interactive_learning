@@ -637,12 +637,18 @@
       "activity_details": "Dissolve yeast in warm sugar solution and observe budding under a microscope after an hour."
     },
     {
-      "class": "VII",
-      "subject": "Science",
-      "topic": "Motion and Time",
-      "activity_name": "Simple Pendulum",
-      "activity_details": "Suspend a bob from a G-clamp, displace and release. Measure time for 20 oscillations and calculate the time period."
-    },
+  "class": "VII",
+  "subject": "Science",
+  "topic": "Motion and Time",
+  "activity_name": "Simple Pendulum",
+  "activity_details": "Suspend a bob from a G-clamp, displace and release. Measure time for 20 oscillations and calculate the time period.",
+  "activity_path": [
+    {
+      "label": "pendulum",
+      "path": "activities/simple-pendulum/index.html"
+    }
+  ]
+},
     {
       "class": "VII",
       "subject": "Science",
