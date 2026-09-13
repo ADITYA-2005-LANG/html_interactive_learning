@@ -727,7 +727,13 @@
       "subject": "Science",
       "topic": "Light",
       "activity_name": "Convex Lens Image",
-      "activity_details": "Place a candle at different distances from a convex lens and obtain the image on a screen."
+      "activity_details": "Place a candle at different distances from a convex lens and obtain the image on a screen.",
+      "activity_path": [
+        {
+        "label": "Convex Lens Image",
+        "path": "activities/Convex Lens Image/index.html"
+        }
+    ]
     },
        {
       "class": "VII",
