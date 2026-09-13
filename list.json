@@ -1446,7 +1446,13 @@
       "subject": "Science",
       "topic": "Reflection and Refraction",
       "activity_name": "Refraction through Glass Slab",
-      "activity_details": "Use the pin method to trace the incident and emergent rays through a glass slab."
+      "activity_details": "Use the pin method to trace the incident and emergent rays through a glass slab.",
+      "activity_path": [
+        {
+          "label": "Refraction through Glass Slab",
+          "path": "activities/Refraction-through-GlassSlab/index.html"
+        }
+      ]
     },
     {
       "class": "X",
