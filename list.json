@@ -1438,7 +1438,13 @@
       "subject": "Science",
       "topic": "Reflection and Refraction",
       "activity_name": "Concave Mirror Image",
-      "activity_details": "Place a candle at different distances from a concave mirror. Obtain the image on a screen."
+      "activity_details": "Place a candle at different distances from a concave mirror. Obtain the image on a screen.",
+      "activity_path": [
+        {
+          "label": "Concave Mirror Image",
+          "path": "activities/concave-mirror-image/index.html"
+        }
+      ]
     },
     {
       "class": "X",
