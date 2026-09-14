@@ -379,11 +379,12 @@
       "activity_name": "Study Shadow Formation",
       "activity_details": "Use a torch, opaque/translucent/transparent objects, and a screen. Observe the formation and nature of shadows.",
       "activity_path": [
-        {
-          "label": "Light Detective Lab",
-          "path": "activities/Light_detective_lab/index.html"
-        }
-      ]
+    {
+      "label": "Light Detective Lab",
+      "path": "activities/Light_detective_lab/index.html"
+    }
+  ]
+
     },
     {
       "class": "VI",
