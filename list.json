@@ -558,7 +558,13 @@
       "subject": "Science",
       "topic": "Physical and Chemical Changes",
       "activity_name": "Ice Melting and Water Evaporation",
-      "activity_details": "Heat ice to melt it, then heat water to evaporate it. Condense water vapour on an inverted watch glass to get water back (physical changes)."
+      "activity_details": "Heat ice to melt it, then heat water to evaporate it. Condense water vapour on an inverted watch glass to get water back (physical changes).",
+      "activity_path": [
+        {
+            "label": "Ice Melting and Water Evaporation",
+            "path": "activities/Physical_and_Chemical_Changes/index.html"
+        }
+    ]
     },
     {
       "class": "VII",
