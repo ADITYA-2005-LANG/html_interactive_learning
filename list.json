@@ -538,7 +538,13 @@
       "subject": "Science",
       "topic": "Acids, Bases and Salts",
       "activity_name": "Testing with Indicators",
-      "activity_details": "Test shampoo, lemon juice, vinegar, soap solution with litmus, turmeric, and china rose extract. Record colour changes to identify acidic/basic nature."
+      "activity_details": "Test shampoo, lemon juice, vinegar, soap solution with litmus, turmeric, and china rose extract. Record colour changes to identify acidic/basic nature.",
+      "activity_path": [
+    {
+      "label": "Testing with Indicators",
+      "path": "activities/Testing_with_Indicator/index.html"
+    }
+  ]
     },
     {
       "class": "VII",
