@@ -713,7 +713,13 @@
       "subject": "Science",
       "topic": "Light",
       "activity_name": "Identify Lenses and Mirrors",
-      "activity_details": "Observe polished/curved surfaces to classify as plane, convex, concave mirrors and convex, concave lenses."
+      "activity_details": "Observe polished/curved surfaces to classify as plane, convex, concave mirrors and convex, concave lenses.",
+      "activity_path": [
+        {
+          "label": "Identify Lenses and Mirrors",
+          "path": "activities/Identify Lenses and Mirrors/index.html"
+        }
+      ]
     },
     {
       "class": "VII",
@@ -1446,7 +1452,13 @@
       "subject": "Science",
       "topic": "Reflection and Refraction",
       "activity_name": "Refraction through Glass Slab",
-      "activity_details": "Use the pin method to trace the incident and emergent rays through a glass slab."
+      "activity_details": "Use the pin method to trace the incident and emergent rays through a glass slab.",
+      "activity_path": [
+        {
+          "label": "Refraction through Glass Slab",
+          "path": "activities/Refraction-through-GlassSlab/index.html"
+        }
+      ]
     },
     {
       "class": "X",
