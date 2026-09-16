@@ -98,7 +98,13 @@
       "subject": "Science",
       "topic": "Materials",
       "activity_name": "Classification of Materials",
-      "activity_details": "Test materials (wax, glass, sugar, leaf, coal, wood, coin, sponge) for hardness, solubility in water, float/sink, and transparency (using a dark spot on paper)."
+      "activity_details": "Test materials (wax, glass, sugar, leaf, coal, wood, coin, sponge) for hardness, solubility in water, float/sink, and transparency (using a dark spot on paper).",
+      "activity_path": [
+    {
+      "label": "Classification of Materials",
+      "path": "activities/classification_of_material/index.html"
+    }
+  ]
     },
     {
       "class": "VI",
@@ -371,7 +377,14 @@
       "subject": "Science",
       "topic": "Natural Phenomena",
       "activity_name": "Study Shadow Formation",
-      "activity_details": "Use a torch, opaque/translucent/transparent objects, and a screen. Observe the formation and nature of shadows."
+      "activity_details": "Use a torch, opaque/translucent/transparent objects, and a screen. Observe the formation and nature of shadows.",
+      "activity_path": [
+    {
+      "label": "Light Detective Lab",
+      "path": "activities/light_detective_lab/index.html"
+    }
+  ]
+
     },
     {
       "class": "VI",
@@ -525,7 +538,13 @@
       "subject": "Science",
       "topic": "Acids, Bases and Salts",
       "activity_name": "Testing with Indicators",
-      "activity_details": "Test shampoo, lemon juice, vinegar, soap solution with litmus, turmeric, and china rose extract. Record colour changes to identify acidic/basic nature."
+      "activity_details": "Test shampoo, lemon juice, vinegar, soap solution with litmus, turmeric, and china rose extract. Record colour changes to identify acidic/basic nature.",
+      "activity_path": [
+    {
+      "label": "Testing with Indicators",
+      "path": "activities/Testing_with_Indicator/index.html"
+    }
+  ]
     },
     {
       "class": "VII",
@@ -539,7 +558,13 @@
       "subject": "Science",
       "topic": "Physical and Chemical Changes",
       "activity_name": "Ice Melting and Water Evaporation",
-      "activity_details": "Heat ice to melt it, then heat water to evaporate it. Condense water vapour on an inverted watch glass to get water back (physical changes)."
+      "activity_details": "Heat ice to melt it, then heat water to evaporate it. Condense water vapour on an inverted watch glass to get water back (physical changes).",
+      "activity_path": [
+        {
+            "label": "Ice Melting and Water Evaporation",
+            "path": "activities/Physical_and_Chemical_Changes/index.html"
+        }
+    ]
     },
     {
       "class": "VII",
