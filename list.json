@@ -678,7 +678,13 @@
       "subject": "Science",
       "topic": "Motion and Time",
       "activity_name": "Average Speed",
-      "activity_details": "Mark a 50 m line, walk with normal gait, measure time, and calculate speed."
+      "activity_details": "Mark a 50 m line, walk with normal gait, measure time, and calculate speed.",
+      "activity_path": [
+        {
+      "label": "Average Speed",
+      "path": "activities/average-speed/index.html"
+        }
+      ]
     },
     {
       "class": "VII",
