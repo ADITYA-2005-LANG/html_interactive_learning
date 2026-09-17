@@ -1702,7 +1702,13 @@
       "subject": "Mathematics",
       "topic": "Geometry",
       "activity_name": "Measurement of Angles",
-      "activity_details": "Fix plastic strips with a full protractor. Move one strip to form and measure different angles (acute, obtuse, right, straight, reflex)."
+      "activity_details": "Fix plastic strips with a full protractor. Move one strip to form and measure different angles (acute, obtuse, right, straight, reflex).",
+      "activity_path": [
+        {
+          "label": "Measurement of Angles",
+          "path": "activities/measurement-of-angles/index.html"
+        }
+      ]
     },
     {
       "class": "IX-X",
